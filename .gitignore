@@ -1,0 +1,58 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### Proyectos de Haskell ###
+*.hi
+*.o
+dist/
+.stack-work/
+.cabal/
+*.ghc.environment.*
+
+### Proyectos de Prolog ###
+*.qlf
+*.pl~     # Backups de archivos Prolog
+*.xwam    # Archivos compilados en XSB Prolog
+
+### Archivos del sistema ###
+Thumbs.db
+
+### Archivos innecesarios de Git ###
+*.log
+*.tmp
+*.bak
+
+### Java y Maven/Gradle ###
+*.jar
+*.war
+*.ear
+.mvn/
+build/
+target/
