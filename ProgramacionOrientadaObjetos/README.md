@@ -9,6 +9,11 @@ Esta carpeta contiene los proyectos desarrollados en **Java** para explorar los 
     - Ejemplo práctico con una clase `Camion`.
     - Uso de encapsulación, constructores y métodos.
 
+- 2. **[Número Racional con Constructores](./NumeroRacionalConstructores/)**
+   - Implementación de una clase `NumeroRacional`.
+   - Uso de constructores sobrecargados para inicializar objetos de distintas maneras.
+   - Operaciones básicas con números racionales, como suma, resta, multiplicación y división.
+
 ## Descripción del Paradigma
 
 La Programación Orientada a Objetos se basa en los siguientes principios:
