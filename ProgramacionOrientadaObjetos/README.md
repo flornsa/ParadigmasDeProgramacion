@@ -1,28 +1,25 @@
 # Programación Orientada a Objetos (POO)
 
-Esta carpeta contiene los proyectos desarrollados en **Java** para explorar los principios y conceptos de la Programación Orientada a Objetos (POO).
+Esta carpeta contiene los proyectos desarrollados en **Java** para explorar los principios y conceptos de la Programación Orientada a Objetos (POO), siguiendo la estructura de la materia **Paradigmas de Programación** de la UTN-FRM.
+
+Cada subcarpeta representa una unidad temática con su propio README para detallar los proyectos relacionados.
 
 ## Contenidos
 
-1. **[Proyecto Camión](./ProyectoCamion/):**
-   - Implementación de la clase `Camion` con atributos como marca, carga y propietario.
-   - Uso de encapsulación, constructores (incluyendo constructor de copia) y métodos.
-   - Ejemplo práctico en la clase `Principal` para instanciar y manipular camiones.
+### 1. [Modelo OO: Clases, Objetos y Relaciones](./ModeloOO_ClasesObjetos/README.md)
+Proyectos relacionados con la creación y uso de clases, atributos, métodos y relaciones entre objetos.
 
-2. **[Sistema de Registro de Camiones](./SistemaRegistroCamiones/)**
-   - Implementación de un sistema de gestión de camiones y choferes.
-   - Uso de clases como `Camion`, `Chofer`, `Motor`, `Chasis`, `Fabrica`, `RNA` y `Titulo`.
-   - Aplicación de relaciones entre clases (composición, agregación y asociación).
-   - Implementación de encapsulación, herencia y polimorfismo.
+### 2. [Modelo OO: Relaciones de Herencia](./ModeloOO_Herencia/README.md)
+Proyectos sobre la implementación de herencia y relaciones entre clases derivadas.
 
-3. **[Número Racional con Constructores](./NumeroRacionalConstructores/)**
-   - Implementación de la clase `NumeroRacional` con tres tipos de constructores:
-      - Constructor por defecto.
-      - Constructor con parámetros.
-      - Constructor de copia.
-   - Métodos para asignar valores a un número racional.
-   - Comparación de igualdad entre números racionales.
-   - Ejemplo de uso en la clase `Prueba` con instanciación y prueba de métodos.
+### 3. [Modelo OO: Programación Orientada a Objetos](./ModeloOO_ProgramacionOO/README.md)
+Aplicación de los principios fundamentales de POO en el desarrollo de software.
+
+### 4. [Modelo OO: Conceptos Avanzados](./ModeloOO_ConceptosAvanzados/README.md)
+Exploración de conceptos avanzados como patrones de diseño, inyección de dependencias, etc.
+
+### 5. [Tarea: Implementación del Modelo OO](./Tarea_ImplementacionModeloOO/README.md)
+Desarrollo de una tarea práctica para afianzar los conocimientos adquiridos en POO.
 
 ## Descripción del Paradigma
 
@@ -33,3 +30,4 @@ La Programación Orientada a Objetos se basa en los siguientes principios:
 - **Polimorfismo:** Utilizar métodos de manera dinámica.
 
 ---
+
