@@ -5,9 +5,9 @@ Esta carpeta contiene los proyectos desarrollados en **Java** para explorar los 
 ## Contenidos
 
 1. **[Proyecto Camión](./ProyectoCamion/):**
-    - Implementación de clases y objetos.
-    - Ejemplo práctico con una clase `Camion`.
-    - Uso de encapsulación, constructores y métodos.
+   - Implementación de la clase `Camion` con atributos como marca, carga y propietario.
+   - Uso de encapsulación, constructores (incluyendo constructor de copia) y métodos.
+   - Ejemplo práctico en la clase `Principal` para instanciar y manipular camiones.
 
 2. **[Sistema de Registro de Camiones](./SistemaRegistroCamiones/)**
    - Implementación de un sistema de gestión de camiones y choferes.
@@ -16,9 +16,13 @@ Esta carpeta contiene los proyectos desarrollados en **Java** para explorar los 
    - Implementación de encapsulación, herencia y polimorfismo.
 
 3. **[Número Racional con Constructores](./NumeroRacionalConstructores/)**
-   - Implementación de una clase `NumeroRacional`.
-   - Uso de constructores sobrecargados para inicializar objetos de distintas maneras.
-   - Operaciones básicas con números racionales, como suma, resta, multiplicación y división.
+   - Implementación de la clase `NumeroRacional` con tres tipos de constructores:
+      - Constructor por defecto.
+      - Constructor con parámetros.
+      - Constructor de copia.
+   - Métodos para asignar valores a un número racional.
+   - Comparación de igualdad entre números racionales.
+   - Ejemplo de uso en la clase `Prueba` con instanciación y prueba de métodos.
 
 ## Descripción del Paradigma
 
